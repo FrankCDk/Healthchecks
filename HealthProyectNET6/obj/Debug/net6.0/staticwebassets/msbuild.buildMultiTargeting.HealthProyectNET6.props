@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HealthProyectNET6.props" />
+</Project>
