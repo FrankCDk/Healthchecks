@@ -8,8 +8,11 @@ D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\Heal
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\HealthProyectNET6.pdb
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\HealthChecks.MySql.dll
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\HealthChecks.UI.dll
+D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\HealthChecks.UI.Client.dll
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\HealthChecks.UI.Core.dll
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\HealthChecks.UI.Data.dll
+D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\HealthChecks.UI.InMemory.Storage.dll
+D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\HealthChecks.Uris.dll
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\Fractions.dll
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\Humanizer.dll
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\IdentityModel.dll
@@ -21,6 +24,7 @@ D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\Heal
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
@@ -64,6 +68,7 @@ D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\Heal
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\obj\Debug\net6.0\HealthProyectNET6.csproj.CoreCompileInputs.cache
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\obj\Debug\net6.0\HealthProyectNET6.MvcApplicationPartsAssemblyInfo.cs
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\obj\Debug\net6.0\HealthProyectNET6.MvcApplicationPartsAssemblyInfo.cache
+D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\obj\Debug\net6.0\HealthProyectNET6.sourcelink.json
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\obj\Debug\net6.0\scopedcss\bundle\HealthProyectNET6.styles.css
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\obj\Debug\net6.0\staticwebassets.build.json
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\obj\Debug\net6.0\staticwebassets.development.json
@@ -81,7 +86,3 @@ D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\Heal
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\obj\Debug\net6.0\HealthProyectNET6.pdb
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\obj\Debug\net6.0\HealthProyectNET6.genruntimeconfig.cache
 D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\obj\Debug\net6.0\ref\HealthProyectNET6.dll
-D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\HealthChecks.UI.InMemory.Storage.dll
-D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
-D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\HealthChecks.UI.Client.dll
-D:\Programacion\ProyectosGithub\Proyecto_Healthcheck_NET6\HealthProyectNET6\HealthProyectNET6\bin\Debug\net6.0\HealthChecks.Uris.dll

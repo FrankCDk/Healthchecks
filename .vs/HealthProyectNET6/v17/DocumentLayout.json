@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{8A38E7FF-CBDA-400A-B861-D26B7352672C}|HealthProyectNET6\\HealthProyectNET6.csproj|solutionrelative:healthproyectnet6\\healthcheckextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ED7D8401-5B26-423F-BB40-15BA6BD663F2}|Solution Items{ED7D8401-5B26-423F-BB40-15BA6BD663F2}|D:\\Programacion\\ProyectosGithub\\Proyecto_Healthcheck_NET6\\HealthProyectNET6\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{ED7D8401-5B26-423F-BB40-15BA6BD663F2}|Solution Items{ED7D8401-5B26-423F-BB40-15BA6BD663F2}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A38E7FF-CBDA-400A-B861-D26B7352672C}|HealthProyectNET6\\HealthProyectNET6.csproj|d:\\programacion\\proyectosgithub\\proyecto_healthcheck_net6\\healthproyectnet6\\healthproyectnet6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A38E7FF-CBDA-400A-B861-D26B7352672C}|HealthProyectNET6\\HealthProyectNET6.csproj|solutionrelative:healthproyectnet6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A38E7FF-CBDA-400A-B861-D26B7352672C}|HealthProyectNET6\\HealthProyectNET6.csproj|d:\\programacion\\proyectosgithub\\proyecto_healthcheck_net6\\healthproyectnet6\\healthproyectnet6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8A38E7FF-CBDA-400A-B861-D26B7352672C}|HealthProyectNET6\\HealthProyectNET6.csproj|solutionrelative:healthproyectnet6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7D8401-5B26-423F-BB40-15BA6BD663F2}|Solution Items{ED7D8401-5B26-423F-BB40-15BA6BD663F2}|D:\\Programacion\\ProyectosGithub\\Proyecto_Healthcheck_NET6\\HealthProyectNET6\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{ED7D8401-5B26-423F-BB40-15BA6BD663F2}|Solution Items{ED7D8401-5B26-423F-BB40-15BA6BD663F2}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "HealthProyectNET6\\HealthCheckExtensions.cs",
               "ToolTip": "D:\\Programacion\\ProyectosGithub\\Proyecto_Healthcheck_NET6\\HealthProyectNET6\\HealthProyectNET6\\HealthCheckExtensions.cs",
               "RelativeToolTip": "HealthProyectNET6\\HealthCheckExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T02:40:28.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Readme.md",
               "DocumentMoniker": "D:\\Programacion\\ProyectosGithub\\Proyecto_Healthcheck_NET6\\HealthProyectNET6\\Readme.md",
               "RelativeDocumentMoniker": "Readme.md",
@@ -51,12 +51,11 @@
               "RelativeToolTip": "Readme.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-02-11T02:33:55.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T02:33:55.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Programacion\\ProyectosGithub\\Proyecto_Healthcheck_NET6\\HealthProyectNET6\\HealthProyectNET6\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "HealthProyectNET6\\Properties\\launchSettings.json",
@@ -64,21 +63,19 @@
               "RelativeToolTip": "HealthProyectNET6\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-10T04:03:50.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T04:03:50.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programacion\\ProyectosGithub\\Proyecto_Healthcheck_NET6\\HealthProyectNET6\\HealthProyectNET6\\Program.cs",
               "RelativeDocumentMoniker": "HealthProyectNET6\\Program.cs",
               "ToolTip": "D:\\Programacion\\ProyectosGithub\\Proyecto_Healthcheck_NET6\\HealthProyectNET6\\HealthProyectNET6\\Program.cs",
               "RelativeToolTip": "HealthProyectNET6\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T22:44:40.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T22:44:40.235Z"
             }
           ]
         }

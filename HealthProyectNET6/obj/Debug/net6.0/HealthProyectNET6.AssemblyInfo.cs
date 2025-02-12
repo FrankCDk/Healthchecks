@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HealthProyectNET6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f17964193ca024aa815df8b4681393465ecdb01")]
 [assembly: System.Reflection.AssemblyProductAttribute("HealthProyectNET6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HealthProyectNET6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -34,10 +34,26 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.MapHealthChecks("/health", new HealthCheckOptions
+//app.MapHealthChecks("/health", new HealthCheckOptions
+//{
+//    ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse,// Respuesta en formato JSON para el UI
+//});
+
+//Health encargado de las conexiones a las base de datos
+app.MapHealthChecks("/health/db", new HealthCheckOptions
 {
-    ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse // Respuesta en formato JSON para el UI
+    ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse,
+    Predicate = (check) => check.Tags.Contains("database")
 });
+
+//Health encargado de las conexiones a las API
+app.MapHealthChecks("/health/api", new HealthCheckOptions
+{
+    ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse,
+    Predicate = (check) => check.Tags.Contains("api")
+});
+
+
 
 app.MapHealthChecksUI(options =>
 {
