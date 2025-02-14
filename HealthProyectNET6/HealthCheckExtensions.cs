@@ -6,7 +6,7 @@
         public static IServiceCollection AddCustomHealthChecks(this IServiceCollection services)
         {
             services.AddHealthChecks()
-                .AddMySql("Server=localhost;Database=ClinicProDB;User=root;Password=tu_password;",
+                .AddMySql("Server=localhost;Database=ClinicProDB;User=root;Password=Dike9930;",
                          name: "MySQL Connection",
                          tags: new[] { "database" })
                 .AddMySql("Server=localhost;Database=AnotherDB;User=root;Password=tu_password;",
@@ -24,7 +24,7 @@
                 options.AddHealthCheckEndpoint("Database Health", "/health/db");
                 options.AddHealthCheckEndpoint("API Health", "/health/api");
             })
-            .AddInMemoryStorage(); // Almacena la información en memoria
+            .AddInMemoryStorage();
 
             return services;
         }

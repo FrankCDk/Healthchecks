@@ -53,6 +53,21 @@ app.MapHealthChecks("/health/api", new HealthCheckOptions
     Predicate = (check) => check.Tags.Contains("api")
 });
 
+app.Use(async (context, next) =>
+{
+    if (context.Request.Path.StartsWithSegments("/health") ||
+        context.Request.Path.StartsWithSegments("/health-ui"))
+    {
+        var apiKey = context.Request.Query["apikey"];
+        if (apiKey != "MiClaveSegura")
+        {
+            context.Response.StatusCode = 401;
+            await context.Response.WriteAsync("Unauthorized");
+            return;
+        }
+    }
+    await next();
+});
 
 
 app.MapHealthChecksUI(options =>
